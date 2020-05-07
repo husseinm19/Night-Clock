@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Night Clock</string>
+    <string name="channel_namestop">Stopwatch</string>
+</resources>
